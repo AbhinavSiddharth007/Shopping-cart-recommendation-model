@@ -1,5 +1,6 @@
 # Shopping-cart-recommendation-model
 # via Clustering
+## The Model used here was KMeans(Clustring)
 
 ## Project Overview
 This project implements a shopping cart product recommendation system using **unsupervised learning** with **KMeans clustering**  By analyzing customer purchase behavior, it groups similar product buying patterns to recommend relevant products based on a user's cart content.
